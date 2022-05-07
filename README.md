@@ -23,7 +23,6 @@
   - Open-Domain Question Answering(~ing)
 - KQR(Korea Quant Research) 7th member, 8th Mechine Learning Team Leader
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=junseok0408&count_private=True" height="165">
 ### What I Interested In
 - ✨ I'm Interested in `AI` & `Quant investment`
-
-![junseok0408's GitHub stats](https://github-readme-stats.vercel.app/api?username=junseok0408&show_icons=true&theme=gruvbox_dark)
