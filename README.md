@@ -25,7 +25,9 @@
   - Extracting Relationships Between Objects In A Sentence(KLUE)
   - Law Data Production 
   - Open-Domain Question Answering (~ing)
-- __KQR(Korea Quant Research)__ 7th member, 8th Mechine Learning Team Leader
+- __KQR(Korea Quant Research)__ 
+  - 7th member
+  - 8th Mechine Learning Team Leader
 
 
 ### What I Interested In
