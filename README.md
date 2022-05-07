@@ -12,19 +12,19 @@
 ### Who Am I
 - 🌱 Hi! I'm an Imagnative AI Developer
 - 🔍 I’m currently learning in `Boostcamp Ai Tech` of NAVER Connect Foundation
-- 📫 Contact: junseok0408@konkuk.ac.kr
+- 📫 Contact: __junseok0408@konkuk.ac.kr__
 
 
 ### Experience
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=junseok0408&count_private=True" height="165">
 
-- Upstage Post OCR Parsing Project(~ing)
+- __Upstage__ Post OCR Parsing Project(~ing)
 - __Naver Boostcamp Ai Tech__ 3rd NLP Camper
   - Classification Of Mask Wearing Conditions
   - Extracting Relationships Between Objects In A Sentence(KLUE)
   - Law Data Production 
   - Open-Domain Question Answering(~ing)
-- KQR(Korea Quant Research) 7th member, 8th Mechine Learning Team Leader
+- __KQR(Korea Quant Research)__ 7th member, 8th Mechine Learning Team Leader
 
 
 ### What I Interested In
