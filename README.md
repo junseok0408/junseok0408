@@ -14,7 +14,7 @@
 - 🔍 I’m currently learning in `Boostcamp Ai Tech` of NAVER Connect Foundation
 - 📫 Contact: junseok0408@konkuk.ac.kr
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=junseok0408&count_private=True" height="165">
+
 ### Experience
 - Upstage Post OCR Parsing Project(~ing)
 - Naver Boostcamp Ai Tech 3rd NLP Camper
@@ -27,3 +27,6 @@
 
 ### What I Interested In
 - ✨ I'm Interested in `AI` & `Quant investment`
+
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=junseok0408&count_private=True" height="165">
