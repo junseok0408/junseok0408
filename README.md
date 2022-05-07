@@ -22,6 +22,7 @@
   - Extracting Relationships Between Objects In A Sentence(KLUE)
   - Law Data Production 
   - Open-Domain Question Answering(~ing)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=junseok0408&count_private=True" height="165">
 - KQR(Korea Quant Research) 7th member, 8th Mechine Learning Team Leader
 
 
@@ -29,4 +30,4 @@
 - ✨ I'm Interested in `AI` & `Quant investment`
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=junseok0408&count_private=True" height="165">
+
