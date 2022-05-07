@@ -25,3 +25,5 @@
 
 ### What I Interested In
 - ✨ I'm Interested in `AI` & `Quant investment`
+
+![junseok0408's GitHub stats](https://github-readme-stats.vercel.app/api?username=junseok0408&show_icons=true&theme=gruvbox_dark)
