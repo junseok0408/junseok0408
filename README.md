@@ -13,7 +13,7 @@
 - 🌱 Hi! I'm an Imagnative AI Developer
 - 🔍 Currently learning in `Boostcamp Ai Tech` of NAVER Connect Foundation
 - 📝 Konkuk Univ. Eletrical and Electronics Engineering
-- 📫 Contact -> __junseok0408@konkuk.ac.kr__
+- 📫 Contact __junseok0408@konkuk.ac.kr__
 
 ### What I Interested In
 - ✨ I'm Interested in `Mechine Learning`,`Deep Learning`, `Data Analysis`, `Quant investment`
