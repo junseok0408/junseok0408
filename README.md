@@ -14,6 +14,8 @@
 - 🔍 I’m currently learning in `Boostcamp Ai Tech` of NAVER Connect Foundation
 - 📫 Contact: __junseok0408@konkuk.ac.kr__
 
+### What I Interested In
+- ✨ I'm Interested in `Mechine Learning`,`Deep Learning`, `Data Analysis`, `Quant investment`
 
 ### Experience
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=junseok0408&count_private=True" height="165">
@@ -30,8 +32,7 @@
   - `8th Mechine Learning Team Leader`
 
 
-### What I Interested In
-- ✨ I'm Interested in `Mechine Learning`,`Deep Learning`, `Data Analysis`, `Quant investment`
+
 
 
 
