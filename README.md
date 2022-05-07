@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:e3f400,100:ff9f00&height=300&section=header&text=Junseok's%20Workspace&fontSize=50&fontAlign=80&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:e3f400,100:ff9f00&height=300&section=header&text=Junseok's%20Workspace&fontSize=50&fontAlign=50&fontColor=FFFFFF)
   
 </div>
 <a target="_blank" href="https://solved.ac/profile/junseok0408"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junseok0408"></a>
