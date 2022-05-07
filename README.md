@@ -31,7 +31,7 @@
 
 
 ### What I Interested In
-- ✨ I'm Interested in `AI` & `Quant investment`
+- ✨ I'm Interested in `Mechine Learning`,`Deep Learning`, `Data Analysis`, `Quant investment`
 
 
 
