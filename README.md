@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:e3f400,100:00ff00&height=100&section=header&text=Junseok's%20Workspace&fontSize=50&fontAlign=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:e3f400,100:00ff00&height=150&section=header&text=Junseok's%20Workspace&fontSize=50&fontAlign=50&fontColor=FFFFFF)
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunseok0408&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/junseok0408) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:junsuk1998@gmail.com) 
