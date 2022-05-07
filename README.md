@@ -19,7 +19,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=junseok0408&count_private=True" height="165">
 
 - Upstage Post OCR Parsing Project(~ing)
-- Naver Boostcamp Ai Tech 3rd NLP Camper
+- __Naver Boostcamp Ai Tech__ 3rd NLP Camper
   - Classification Of Mask Wearing Conditions
   - Extracting Relationships Between Objects In A Sentence(KLUE)
   - Law Data Production 
