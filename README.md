@@ -12,9 +12,21 @@
 ### Who Am I
 - 🌱 Hi! I'm an Imagnative AI Developer
 - 
-- ✨ Interested in AI & Quant investment
-- 
+
+- 🔍 I’m currently learning in `Boostcamp Ai Tech` of NAVER Connect Foundation
 - 📫 Contact: junseok0408@konkuk.ac.kr
+
+### Experience
+- Naver Boostcamp Ai Tech 3rd NLP Camper
+-- Classification Of Mask Wearing Conditions
+-- Extracting Relationships Between Objects In A Sentence(KLUE)
+-- Law Data Production 
+-- Open-Domain Question Answering
+- Upstage Post OCR Parsing Project
+- KQR(Korea Quant Research) 7th member, 8th Mechine Learning Team Leader
+
+### What I Interested In
+- ✨ I'm Interested in `AI` & `Quant investment`
 
 <p align="center">
   <a target="_blank" href="https://github.com/junseok0408"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunseok0408&count_bg=%23FFEA45&title_bg=%23398FE9&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
