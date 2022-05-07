@@ -18,11 +18,11 @@
 ### Experience
 - Upstage Post OCR Parsing Project(~ing)
 - Naver Boostcamp Ai Tech 3rd NLP Camper
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=junseok0408&count_private=True" height="165">
   - Classification Of Mask Wearing Conditions
   - Extracting Relationships Between Objects In A Sentence(KLUE)
   - Law Data Production 
   - Open-Domain Question Answering(~ing)
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=junseok0408&count_private=True" height="165">
 - KQR(Korea Quant Research) 7th member, 8th Mechine Learning Team Leader
 
 
