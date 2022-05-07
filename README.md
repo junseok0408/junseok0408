@@ -18,10 +18,10 @@
 
 ### Experience
 - Naver Boostcamp Ai Tech 3rd NLP Camper
--- Classification Of Mask Wearing Conditions
--- Extracting Relationships Between Objects In A Sentence(KLUE)
--- Law Data Production 
--- Open-Domain Question Answering
+  - Classification Of Mask Wearing Conditions
+  - Extracting Relationships Between Objects In A Sentence(KLUE)
+  - Law Data Production 
+  - Open-Domain Question Answering
 - Upstage Post OCR Parsing Project
 - KQR(Korea Quant Research) 7th member, 8th Mechine Learning Team Leader
 
