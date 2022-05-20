@@ -16,7 +16,7 @@
 - 📫 Contact __junseok0408@konkuk.ac.kr__
 
 ### What I Interested In
-- ✨ I'm Interested in `Mechine Learning`,`Deep Learning`, `Data Analysis`, `Quant investment`
+- ✨ I'm Interested in `Mchine Learning`,`Deep Learning`, `Data Analysis`, `Quant investment`
 
 ### Experience
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=junseok0408&count_private=True" height="165">
