@@ -27,7 +27,7 @@
   - `Classification Of Mask Wearing Conditions`
   - `Extracting Relationships Between Objects In A Sentence (KLUE)`
   - `Law Data Production`
-  - `Open-Domain Question Answering` (~ing)
+  - `Open-Domain Question Answering`
 - 🔴 __KQR(Korea Quant Research)__ 🔴 
   - `7th member`
   - `8th Mechine Learning Team Leader`
