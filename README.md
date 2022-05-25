@@ -14,6 +14,7 @@
 - 🔍 Currently learning in `Boostcamp Ai Tech` of NAVER Connect Foundation
 - 📝 Konkuk Univ. Electrical and Electronics Engineering
 - 📫 Contact __junseok0408@konkuk.ac.kr__
+- Notion https://www.notion.so/8b5ededdbe9248128268b39816279ac4
 
 ### What I Interested In
 - ✨ I'm Interested in `Machine Learning`,`Deep Learning`, `Data Analysis`, `Quant investment`
