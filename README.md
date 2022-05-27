@@ -25,7 +25,7 @@
 
 - 🟣 __Upstage__ 🟣
   - `Post OCR Parsing Project` (~ing)
-- 🟢 __Naver Boostcamp A Tech__ 🟢 3rd NLP Camper
+- 🟢 __Naver Boostcamp AI Tech__ 🟢 3rd NLP Camper
   - `Classification Of Mask Wearing Conditions`
   - `Extracting Relationships Between Objects In A Sentence (KLUE)`
   - `Law Data Production`
