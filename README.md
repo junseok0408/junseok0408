@@ -4,7 +4,6 @@
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunseok0408&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/junseok0408) 
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://separate-salsa-b21.notion.site/8b5ededdbe9248128268b39816279ac4)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:junsuk1998@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A4%80%EC%84%9D-%EA%B9%80-a367b5234/)](https://www.linkedin.com/in/%EC%A4%80%EC%84%9D-%EA%B9%80-a367b5234/)
   
 </div>
