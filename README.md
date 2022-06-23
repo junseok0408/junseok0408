@@ -23,7 +23,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=junseok0408&count_private=True" height="165">
 
 - 🟣 __Upstage__ 🟣
-  - `Post OCR Parsing Project` (~ing)
+  - `Post OCR Parsing Project`
 - 🟢 __Naver Boostcamp AI Tech__ 🟢 3rd NLP Camper
   - `Classification Of Mask Wearing Conditions`
   - `Extracting Relationships Between Objects In A Sentence (KLUE)`
