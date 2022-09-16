@@ -9,6 +9,7 @@
 </div>
 <a target="_blank" href="https://solved.ac/profile/junseok0408"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junseok0408"></a>
 
+
 ### Who Am I
 - 🌱 Hi! I'm an Imagnative AI Developer
 - 📝 Konkuk Univ. Electrical and Electronics Engineering
@@ -18,8 +19,10 @@
 ### What I Interested In
 - ✨ I'm Interested in `Machine Learning`,`Deep Learning`, `Data Analysis`, `Quant investment`
 
+
 ### Experience
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=junseok0408&count_private=True" height="165">
+
 
 - 🔵 __Hyundai Motor Group__ 🔵
   - `Anomaly Detection for Diagnosis Using Vibration Data`
