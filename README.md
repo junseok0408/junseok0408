@@ -11,7 +11,6 @@
 
 ### Who Am I
 - 🌱 Hi! I'm an Imagnative AI Developer
-- 🔍 Currently learning in `Boostcamp Ai Tech` of NAVER Connect Foundation
 - 📝 Konkuk Univ. Electrical and Electronics Engineering
 - 📫 Contact __junseok0408@konkuk.ac.kr__
 
@@ -22,6 +21,8 @@
 ### Experience
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=junseok0408&count_private=True" height="165">
 
+- 🔵 __Hyundai Motor Group__ 🔵
+  - `Anomaly Detection for Diagnosis Using Vibration Data`
 - 🟣 __Upstage__ 🟣
   - `Post OCR Parsing Project`
 - 🟢 __Naver Boostcamp AI Tech__ 🟢 3rd NLP Camper
