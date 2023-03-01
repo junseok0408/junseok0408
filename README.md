@@ -23,7 +23,8 @@
 ### Experience
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=junseok0408&count_private=True" height="165">
 
-
+- 🟡 __Kakao__ 🟡
+  - `Ad recommendataion team ML Engineer internship`
 - 🔵 __Hyundai Motor Group__ 🔵
   - `Anomaly Detection for Diagnosis Using Vibration Data`
 - 🟣 __Upstage__ 🟣
