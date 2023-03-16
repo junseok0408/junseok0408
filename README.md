@@ -21,7 +21,7 @@
 - ✨ I'm Interested in `Machine Learning`,`Deep Learning`, `Data Analysis`, `Quant investment`
 
 
-### Experience
+### Experiences
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=junseok0408&count_private=True" height="165">
 
 - 🟡 __Kakao__ 🟡
