@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:e3f400,100:00ff00&height=125&section=header&text=Junseok's%20Workspace&fontSize=50&fontAlign=50&fontColor=FFFFFF)
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunseok0408&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/junseok0408) 
-%[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://separate-salsa-b21.notion.site/8b5ededdbe9248128268b39816279ac4)
+\\<!--[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://separate-salsa-b21.notion.site/8b5ededdbe9248128268b39816279ac4)-->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junseok0408/)](https://www.linkedin.com/in/junseok0408/)
   
 </div>
